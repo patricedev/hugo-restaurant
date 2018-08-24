@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Thailand Tom"
+title = "Tom's Thai Cuisine"
 
 [params]
   description = "An example website for restaurants built by [@eliwilliamson](https://github.com/eliwilliamson) using [Victor Hugo](https://github.com/netlify/victor-hugo)."
